@@ -16,4 +16,4 @@ Several algorithms are explaned there, for classification and regressin problem.
 This implementation trains Dicision Tree, then compares results with AdaBoost method.
 At the end yot can explore the error, stumps weights and prediction.
 
-![results](results.png)
+![results](results2.png)
